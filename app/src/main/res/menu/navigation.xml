@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_location"
+        android:icon="@drawable/ic_location_select"
+        android:title="@string/title_location" />
+
+    <item
+        android:id="@+id/navigation_navigation"
+        android:icon="@drawable/ic_nav_press"
+        android:title="@string/title_navigation" />
+
+    <item
+        android:id="@+id/navigation_route"
+        android:icon="@drawable/ic_search_press"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_mark"
+        android:icon="@drawable/ic_mark_press"
+        android:title="@string/title_mark" />
+
+</menu>
